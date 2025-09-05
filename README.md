@@ -1,5 +1,5 @@
 # git-branching
 adding to  main application 
-1)signup page
-2)login page
+1)Done
+2)Done
 3)AI
